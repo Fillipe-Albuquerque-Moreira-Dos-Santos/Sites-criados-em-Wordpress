@@ -1,6 +1,6 @@
 # Sites feitos em WORDPRESS
 
-# Principais funções no CMS
+# Hospedado no HostGator
 
 # Atualização de plugins e temas em geral.
 
