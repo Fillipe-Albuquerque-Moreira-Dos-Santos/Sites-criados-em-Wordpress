@@ -1,6 +1,6 @@
 # Sites feitos em WORDPRESS
 
-# Hospedado no HostGator
+# Principais atividades e funções ministradas
 
 # Atualização de plugins e temas em geral.
 
