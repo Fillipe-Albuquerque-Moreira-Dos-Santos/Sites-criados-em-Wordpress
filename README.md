@@ -1,4 +1,3 @@
-# Sites feitos em WORDPRESS
 
 # Principais atividades e funções ministradas
 
