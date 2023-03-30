@@ -28,7 +28,7 @@
 #
 #
 
-<h1>Loja virtual usando o Tema WoodMart</h1>
+<h1>Loja virtual usando o Tema WoodMart em LocalHost</h1>
 
 ![preview img](/preview3.png)
 
