@@ -28,7 +28,7 @@
 #
 #
 
-<h1>Loja virtual feita no LocalHost</h1>
+<h1>Loja virtual feita em LocalHost</h1>
 
 ![preview img](/preview3.png)
 
