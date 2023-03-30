@@ -16,8 +16,6 @@
 
 ![preview img](/preview.png)
 
-
-
 #
 #
 #
@@ -25,4 +23,13 @@
 <h1>https://paroquiasantabernadette.org/</h1>
 
 ![preview img](/preview2.png)
+
+#
+#
+#
+
+<h1>Loja virtual feita no LocalHost</h1>
+
+![preview img](/preview3.png)
+
 
