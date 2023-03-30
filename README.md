@@ -7,7 +7,7 @@
 ## (Wordfence e JetPack,UpdraftPlus, All-in-one Migration)
 
 # Atualização de páginas 
-## (Elementor, PageBuilder, Popup Builder, FooGallery,Wp-Forms,InstagramFeed,YoastSEO,Fancy Facebook Comments)
+## (Elementor, PageBuilder, Popup Builder, FooGallery,Wp-Forms,InstagramFeed,YoastSEO,Fancy Facebook Comments, Copy Protection, LightBox)
 
 # Integrações entre sites e plataformas
 ## (MercadoPago, GoogleMaps, Woocommerce)
